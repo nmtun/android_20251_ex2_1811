@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android_Week10_Ex2</string>
+    <string name="e">E</string>
+    <string name="sender_name">Sender Name</string>
+    <string name="_12_34_pm">12:34 PM</string>
+    <string name="todo">TODO</string>
+    <string name="subject">Subject</string>
+    <string name="preview_text">Preview text...</string>
+    <string name="inbox">Inbox</string>
+    <string name="compose">Compose</string>
+    <string name="menu">Menu</string>
+    <string name="search">Search</string>
+    <string name="check">Check</string>
+    <string name="text">Touch a sender image to select that conversation.</string>
+    <string name="close">Close</string>
+</resources>
